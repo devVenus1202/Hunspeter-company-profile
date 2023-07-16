@@ -1,6 +1,9 @@
 import Link from "next/link";
 
+import { useTranslation } from "next-i18next";
+
 const Hero = () => {
+  const { t } = useTranslation();
   return (
     <>
       <section
@@ -10,14 +13,11 @@ const Hero = () => {
       >
         <div className="container">
           <div className="banner_wrapper">
-            <h1>Crafters of great mobile and web applications</h1>
-            <p>
-              We put our experience and talent at stake to build mobile and web
-              applications for tangible results in a digital-oriented world.
-            </p>
+            <h1>{t("TITLE")}</h1>
+            <p>{t("HERA_CONTENT")}</p>
             <div className="banner_buttons">
-              <a href="https://hupp.tech/contact-us/">Contact Us</a>
-              <a href="https://hupp.tech/portfolio/">Portfolio</a>
+              <a href="https://hupp.tech/contact-us/">{t("CONTACT_US")}</a>
+              <a href="https://hupp.tech/portfolio/">{t("PORTFOLIO")}</a>
             </div>
           </div>
         </div>
