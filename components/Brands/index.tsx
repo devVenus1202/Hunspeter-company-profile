@@ -1,7 +1,6 @@
-import { Brand } from "@/types/brand";
 import Image from "next/image";
 
-const brandsData: Brand[] = [
+const brandsData = [
   {
     id: 1,
     name: "UIdeck",
@@ -58,7 +57,7 @@ const Brands = () => {
 
 export default Brands;
 
-const SingleBrand = ({ brand }: { brand: Brand }) => {
+const SingleBrand = ({ brand }) => {
   const { href, image, name } = brand;
 
   return (

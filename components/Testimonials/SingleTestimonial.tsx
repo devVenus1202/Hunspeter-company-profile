@@ -1,4 +1,3 @@
-import { Testimonial } from "@/types/testimonial";
 import Image from "next/image";
 const starIcon = (
   <svg width="18" height="16" viewBox="0 0 18 16" className="fill-current">
@@ -6,10 +5,10 @@ const starIcon = (
   </svg>
 );
 
-const SingleTestimonial = ({ testimonial }: { testimonial: Testimonial }) => {
+const SingleTestimonial = ({ testimonial }) => {
   const { star, name, image, content, designation } = testimonial;
 
-  let ratingIcons = [];
+  let ratingIcons: any[] = [];
   for (let index = 0; index < star; index++) {
     ratingIcons.push(
       <span key={index} className="text-yellow">
