@@ -4,7 +4,7 @@ const blogData = [
     id: 1,
     title: "Best UI components for modern websites",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "We combine our experience in mobile and web app with our passion for technology to create projects through which we help our client’s forward-thinking in a digital culture.",
     image: "/images/blog/blog-01.jpg",
     author: {
       name: "Samuyl Joshi",
@@ -12,13 +12,13 @@ const blogData = [
       designation: "Graphic Designer",
     },
     tags: ["creative"],
-    publishDate: "2025",
+    publishDate: "2023",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "Business introspection",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Your business needs and goals represent the ground on which we build the future mobile and web application. Through a deep analysis, we make sure it’s a solid one.",
     image: "/images/blog/blog-02.jpg",
     author: {
       name: "Musharof Chy",
@@ -26,13 +26,13 @@ const blogData = [
       designation: "Content Writer",
     },
     tags: ["computer"],
-    publishDate: "2025",
+    publishDate: "2023",
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "Broad experience",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "From AngularJS, Node JS (Express JS, Loopback), React JS, Typescript and Ionic to Laravel, Yii, Swift and Objective C, we rule them all.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Lethium Deo",
@@ -40,7 +40,7 @@ const blogData = [
       designation: "Graphic Designer",
     },
     tags: ["design"],
-    publishDate: "2025",
+    publishDate: "2023",
   },
 ];
 export default blogData;

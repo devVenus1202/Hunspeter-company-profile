@@ -7,7 +7,7 @@ const testimonialData = [
     name: "Musharof Chy",
     designation: "Founder @TailGrids",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "The entire team is working very diligently and professionally and are always on top of things. We had the design of our Ecommerce website ready and they implemented everything very seamlessly and relatively fast.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
@@ -16,7 +16,7 @@ const testimonialData = [
     name: "Devid Weilium",
     designation: "Founder @UIdeck",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Yuliia Dymura and his team are very hard working. They communicate effectively and constantly throughout the project on and off business hours to ensure deadlines are met. I already have multiple projects with her as she has earned by repeat business.",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
@@ -25,7 +25,7 @@ const testimonialData = [
     name: "Lethium Frenci",
     designation: "Founder @Lineicons",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Excellent job! It's the 3rd project that I send to the this Team and I always have very good results! Fast and efficient... Easy to approach and very helpful. I really recommend them.. Very happy!",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
@@ -37,7 +37,7 @@ const Testimonials = () => {
       <div className="container">
         <SectionTitle
           title="What Our Users Says"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Let’s see what we are like through the following review"
           center
         />
 
