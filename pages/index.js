@@ -33,7 +33,7 @@ const Home = () => {
       <Brands />
       <Testimonials />
       <Contact />
-      <Footer />
+      {/* <Footer /> */}
       <ScrollToTop />
     </>
   );
