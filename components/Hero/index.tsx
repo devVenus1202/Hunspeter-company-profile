@@ -15,10 +15,10 @@ const Hero = () => {
           <div className="banner_wrapper">
             <h1>{t("TITLE")}</h1>
             <p>{t("HERA_CONTENT")}</p>
-            <div className="banner_buttons">
+            {/* <div className="banner_buttons">
               <a href="https://hupp.tech/contact-us/">{t("CONTACT_US")}</a>
               <a href="https://hupp.tech/portfolio/">{t("PORTFOLIO")}</a>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
