@@ -2,31 +2,31 @@ import Image from "next/image";
 
 const brandsData = [
   {
-    id: 1,
+    id: "brand1",
     name: "UIdeck",
     href: "https://uideck.com",
     image: "/images/brands/uideck.svg",
   },
   {
-    id: 2,
+    id: "brand2",
     name: "Tailgrids",
     href: "https://tailgrids.com",
     image: "/images/brands/tailgrids.svg",
   },
   {
-    id: 3,
+    id: "brand4",
     name: "Lineicons",
     href: "https://lineicons.com",
     image: "/images/brands/lineicons.svg",
   },
   {
-    id: 4,
+    id: "brand5",
     name: "GrayGrids",
     href: "https://graygrids.com",
     image: "/images/brands/graygrids.svg",
   },
   {
-    id: 5,
+    id: "brand6",
     name: "TailAdmin",
     href: "https://tailadmin.com",
     image: "/images/brands/tailadmin.svg",

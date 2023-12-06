@@ -119,19 +119,23 @@
 }
 
 .services_section .services_wrapper .services_box h2 {
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 1.2;
-    color: #283745;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #283745;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .services_section .services_wrapper .services_box p {
-    color: #737373;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 1.5;
-    text-align: justify;
-    margin: 0;
+  color: #737373;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
 }

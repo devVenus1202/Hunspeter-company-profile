@@ -29,8 +29,8 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  Customers are our future. Our efforts and passion for our
+                  customers will not be in vain.
                 </p>
                 <div className="flex items-center">
                   <a

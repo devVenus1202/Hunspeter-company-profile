@@ -1,6 +1,6 @@
 const featuresData = [
   {
-    id: 1,
+    id: "feature1",
     icon: (
       <svg width="40" height="41" viewBox="0 0 40 41" className="fill-current">
         <path
@@ -15,7 +15,7 @@ const featuresData = [
       "We encompass and provide all necessary information and development processes for startups and all possible IT industry processes.",
   },
   {
-    id: 1,
+    id: "feature2",
     icon: (
       <svg width="40" height="40" viewBox="0 0 40 40" className="fill-current">
         <path
@@ -30,7 +30,7 @@ const featuresData = [
       "We are capable of creating highly usable and intuitive designs for future mobile and web application that will serve you as suitable tools to engage customers.",
   },
   {
-    id: 1,
+    id: "feature3",
     icon: (
       <svg width="40" height="40" viewBox="0 0 40 40" className="fill-current">
         <path
@@ -45,7 +45,7 @@ const featuresData = [
       "Our front-end experts provide a thorough and detailed approach to build customised web and mobile applications.",
   },
   {
-    id: 1,
+    id: "feature4",
     icon: (
       <svg width="40" height="42" viewBox="0 0 40 42" className="fill-current">
         <path
@@ -60,7 +60,7 @@ const featuresData = [
       "Tailwind CSS allows you to appreciate the true value of a professional web program.",
   },
   {
-    id: 1,
+    id: "feature5",
     icon: (
       <svg width="40" height="40" viewBox="0 0 40 40" className="fill-current">
         <path
@@ -75,7 +75,7 @@ const featuresData = [
       "We are highly strategical and analytical in building a solid code that will transform even the boldest ideas into reality.",
   },
   {
-    id: 1,
+    id: "feature6",
     icon: (
       <svg width="40" height="45" viewBox="0 0 40 45" className="fill-current">
         <path

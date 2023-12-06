@@ -1,7 +1,7 @@
 
 const blogData = [
   {
-    id: 1,
+    id: "blog1",
     title: "Best UI components for modern websites",
     paragraph:
       "We combine our experience in mobile and web app with our passion for technology to create projects through which we help our client’s forward-thinking in a digital culture.",
@@ -15,7 +15,7 @@ const blogData = [
     publishDate: "2023",
   },
   {
-    id: 2,
+    id: "blog2",
     title: "Business introspection",
     paragraph:
       "Your business needs and goals represent the ground on which we build the future mobile and web application. Through a deep analysis, we make sure it’s a solid one.",
@@ -29,7 +29,7 @@ const blogData = [
     publishDate: "2023",
   },
   {
-    id: 3,
+    id: "blog3",
     title: "Broad experience",
     paragraph:
       "From AngularJS, Node JS (Express JS, Loopback), React JS, Typescript and Ionic to Laravel, Yii, Swift and Objective C, we rule them all.",
